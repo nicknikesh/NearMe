@@ -172,12 +172,7 @@ crm.html
 ```
 
 ## OUTPUT
-
-
-
-![alt text](<Screenshot 2024-03-23 083320.png>)
-![alt text](<Screenshot 2024-03-23 083914.png>) ![alt text](<Screenshot 2024-03-23 083725.png>) ![alt text](<Screenshot 2024-03-23 083802.png>) ![alt text](<Screenshot 2024-03-23 083821.png>) ![alt text](<Screenshot 2024-03-23 083847.png>)
-
+![alt text](<Screenshot 2024-03-23 083320.png>) ![alt text](<Screenshot 2024-03-23 083725.png>) ![alt text](<Screenshot 2024-03-23 083802.png>) ![alt text](<Screenshot 2024-03-23 083821.png>) ![alt text](<Screenshot 2024-03-23 083847.png>) ![alt text](<Screenshot 2024-03-23 083914.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
