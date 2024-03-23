@@ -25,6 +25,28 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+map.html
+```
+<html>
+    <head>
+        <title>chennai</title>
+    </head>
+    <body bgcolor="yellow">
+        <h1> CHENNAI CITY</h1>
+        <h3>Name: NIKESH KUMAR C</h3>
+        <h3>Reg no:212223040132</h3>
+        <img src="house app 2.png" usemap="#image-map">
+
+<map name="image-map">
+    <area target="" alt="hennai rail museum" title="hennai rail museum" href="crm.html" coords="1215,425,131" shape="circle">
+    <area target="" alt="saveetha dental college" title="saveetha dental college" href="sdch.html" coords="662,743,158" shape="circle">
+    <area target="" alt="N4 beach" title="N4 beach" href="beach.html" coords="1809,226,101" shape="circle">
+    <area target="" alt="pachaiamman temple" title="pachaiamman temple" href="temple.html" coords="714,205,471,246" shape="rect">
+    <area target="" alt="chennai light house" title="chennai light house" href="chennai.html" coords="1702,835,90" shape="circle">
+</map>
+    </body>
+</html>
+```
 temple.html
 ```
 <html>
